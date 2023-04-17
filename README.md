@@ -4,7 +4,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](coutinholps@gmail.com) 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](wa.me/5521964781930)
 
-Apaixonado por tecnologia e por desenvolver soluções. Posso desenvolver estruturas backend com Python e NodeJS, extrair e minerar dados além de desenvolver pipelines para automatizar tarefas como o deploy de um aplicação.
+Apaixonado por tecnologia e por construir soluções. Posso desenvolver estruturas backend com Python e NodeJS, extrair e minerar dados além de desenvolver pipelines para automatizar tarefas como o deploy de um aplicação.
 
 ### Publicações 
 
