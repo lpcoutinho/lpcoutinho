@@ -17,7 +17,7 @@ I'm majoring in Mathematics 🎓 at Ampli University🏛.  I'm a passionate lear
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/lpcoutinho).
 - 💬 &nbsp; Ask me about anything [here](https://github.com/lpcoutinho/lpcoutinho/issues/1)! I am happy to help.
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
-- 📫 &nbsp; How to reach me: pavangandhi100@gmail.com.
+- 📫 &nbsp; How to reach me: coutinholps@gmail.com.
 - 📝 &nbsp; Checkout my [Resume](https://github.com/lpcoutinho/lpcoutinho/blob/main/resume.pdf).
 
 ### My Absolute Favorites:
