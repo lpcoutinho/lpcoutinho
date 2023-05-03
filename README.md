@@ -1,4 +1,4 @@
-
+<!-- Inspired by https://github.com/iampavangandhi/iampavangandhi -->
 ## Hi, I'm Luiz Paulo Coutinho, a Developer from Brazil. 🖐
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/lpcoutinho)
@@ -18,7 +18,7 @@ I'm majoring in Mathematics 🎓 at Ampli University🏛.  I'm a passionate lear
 - 💬 &nbsp; Ask me about anything [here](https://github.com/lpcoutinho/lpcoutinho/issues/1)! I am happy to help.
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
 - 📫 &nbsp; How to reach me: pavangandhi100@gmail.com.
-- 📝 &nbsp; Checkout my [Resume](https://github.com/lpcoutinho).
+- 📝 &nbsp; Checkout my [Resume](https://github.com/lpcoutinho/lpcoutinho/blob/main/resume.pdf).
 
 ### My Absolute Favorites:
 
@@ -96,7 +96,7 @@ I created these images, feel free to use them.
 </p>
 -->
 
-### Publicações 
+### Readme my Posts:
 
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@coutinholps)
+[![Medium](https://www.vectorlogo.zone/logos/medium/medium-ar21.svg)](https://medium.com/@coutinholps)
 
