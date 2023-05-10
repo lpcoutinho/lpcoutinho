@@ -5,7 +5,6 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/luizpaulocoutinho/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:coutinholps@gmail.com)
 
-I'm a graduate in Computer Science  from Delhi University
 I'm majoring in Mathematics 🎓 at Ampli University🏛.  I'm a passionate learner who's always willing to learn and work across technologies.💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to write to guide other people about different doubts and issues that arise in everyday life 👨🏻‍💻. I'm currently into Web Development 🕸️ and studing Data Science and PowerBI 🤓.
 
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
